@@ -2,9 +2,9 @@
 
 ## Mappings
 
-| key           | arrow |   |   |   |
-|---------------|-------|---|---|---|
-| p             | up    |   |   |   |
-| ; (semicolon) | down  |   |   |   |
-| l             | left  |   |   |   |
-| ' (quote)     | right |   |   |   |
+| key           | arrow |
+|---------------|-------|
+| p             | up    |
+| ; (semicolon) | down  |
+| l             | left  |
+| ' (quote)     | right |
